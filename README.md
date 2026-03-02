@@ -1,4 +1,4 @@
-Forex Intelligence – Enterprise Dashboard
+**Forex Intelligence – Enterprise Dashboard**
 
 An AI-powered Forex analytics platform built with modern enterprise architecture principles.
 
